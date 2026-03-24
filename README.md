@@ -97,9 +97,7 @@ All outputs and charts will appear
 
 ## 👤 Author
 Vivek Kaushik
-- 🌐 LinkedIn: https://www.linkedin.com/in/vivek-kaushik-cse
-- 💻 GitHub: github.com/vivek-kaushik-data
-- 📍 Jhajjar, Haryana, India
+[GitHub](https://www.linkedin.com/in/vivek-kaushik-cse) | [LinkedIn](https://github.com/vivek-kaushik-data)
 
 ---
 
